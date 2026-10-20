@@ -12,7 +12,7 @@ Quand je ne suis pas devant un écran à coder, je passe le plus clair de mon te
 
 ### Ce que j'étudie en ce moment
 
-* **Langages :** C++, Python, HTML/CSS
+* **Langages :** C++, Python
 * **Domaines :** Algorithmique, bases de données et conception logicielle.
 * **Objectif :** Monter en compétences à travers des projets concrets et développer de bonnes pratiques de code.
 
