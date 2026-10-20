@@ -7,7 +7,7 @@ Originaire d'Auvergne, je suis actuellement en 1ère année de BUT Informatique.
 Quand je ne suis pas devant un écran à coder, je passe le plus clair de mon temps dehors :
 
 * **Randonnée :** Un habitué des sentiers auvergnats et des puys de la région.
-* **Chasse :** Passionné par la nature, les traditions et le grand air.
+* **Chasse et pêche:** Passionné par la nature, les traditions et le grand air.
 * **ASM Clermont Auvergne :** Supporter des Jaune et Bleu depuis toujours !
 
 ### Ce que j'étudie en ce moment
